@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: AlexAlert
+## Notes: Alertas de loot e prévia de itens por inimigo.
+## Author: Alex
+## Version: 0.1.0
+## Category: Loot
+## SavedVariablesPerCharacter: AlexAlertDB
+
+Data.lua
+AlexAlert.lua
